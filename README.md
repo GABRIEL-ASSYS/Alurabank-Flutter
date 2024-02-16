@@ -1,4 +1,4 @@
-# Alurabank Flutter
+# Alurabank Flutter 🏦
 
   Este é um projeto criado em um curso na plataforma Alura com o objetivo de desenvolver os aprendizados em Flutter.
 
